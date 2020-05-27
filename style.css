@@ -1,0 +1,39 @@
+body {
+  background-color: #dcdede;
+}
+#banner {
+  background-image: url(https://source.unsplash.com/random);
+  background-size: cover;
+  padding: 100px;
+
+}
+
+.text-center {
+  text-align: center;
+}
+.container {
+  padding: 20px;
+}
+h2, h3 {
+  font-family: 'Playfair Display', serif;
+  color: #343638;
+}
+
+#title {
+  color: #e0e7f2;
+  font-size: 100px;
+  font-family: 'Playfair Display', serif;
+}
+#subtitle {
+  color: #e0e7f2;
+  font-size: 70px;
+  opacity: 0.9;
+  font-family: 'Dancing Script', cursive;
+}
+.description {
+  color: #382930;
+  font-family: 'Playfair Display', serif;
+}
+.btn:hover {
+  color: red;
+}
